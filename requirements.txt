@@ -1,0 +1,8 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+fastapi[all]
+openai
+pydantic
+python-dotenv
+qdrant_client
+requests
+python-dotenv
