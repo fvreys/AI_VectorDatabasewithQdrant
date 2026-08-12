@@ -1,7 +1,7 @@
-Learn the fundamentals of Qdrant, a vector-first database, 
+Usage of the fundamentals of Qdrant, a vector-first database, 
 including data loading, similarity matching, natural language searching, and building a simple FastAPI interface. 
 
-In this project, you will develop a solution for semantic search using Qdrant, 
+We develop a solution for semantic search using Qdrant, 
 using OpenAI's embeddings API to process data, perform similarity searches, 
 and construct an interface that enables retrieval of data points through natural language queries and filtering techniques.
 
